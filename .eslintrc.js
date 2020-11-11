@@ -34,5 +34,6 @@ module.exports = {
         tsx: 'never',
       },
     ],
+    'class-methods-use-this': 'off',
   },
 };
