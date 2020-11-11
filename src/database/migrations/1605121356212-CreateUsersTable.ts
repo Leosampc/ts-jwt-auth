@@ -1,4 +1,3 @@
-/* eslint-disable class-methods-use-this */
 import { MigrationInterface, QueryRunner, Table } from 'typeorm';
 
 export default class CreateUsersTable1605121356212 implements MigrationInterface {
